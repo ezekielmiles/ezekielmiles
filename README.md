@@ -28,7 +28,7 @@ Environment
 [![nvim](https://img.shields.io/badge/-neovim-000?style=for-the-badge&logo=neovim)](#) [![ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu)](#)
 
 ## Get In Touch
-[![Github](https://img.shields.io/badge/-Simmon_Li-000?style=for-the-badge&logo=github&logoColor=azure&color=181717)](https://github.com/crespire) [![Linkedin](https://img.shields.io/badge/-Simmon_Li-000?style=for-the-badge&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/simmonli/) [![Email](https://img.shields.io/badge/-Simmon_Li-000?style=for-the-badge&logo=gmail&logoColor=azure&color=EA4335)](mailto:hello@crespire.dev)
+[![Github](https://img.shields.io/badge/-Ezekiel_Miles-000?style=for-the-badge&logo=github&logoColor=azure&color=181717)](https://github.com/ezekielmiles) [![Linkedin](https://img.shields.io/badge/-Ezekiel_Miles-000?style=for-the-badge&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/ezekielmiles/)
 
 <!--
 **ezekielmiles/ezekielmiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

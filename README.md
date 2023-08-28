@@ -6,7 +6,7 @@ Badge format:
 [![Name of Tech](https://img.shields.io/badge/-NAME_OF_TECH-000?style=for-the-badge&logo=name-of-tech)](#)
 
 For spaces, badge text uses underscores, while the logo slug uses hyphens.
--->
+
 
 ## Technologies
 Languages  
@@ -29,6 +29,8 @@ Environment
 
 ## Get In Touch
 [![Github](https://img.shields.io/badge/-Ezekiel_Miles-000?style=for-the-badge&logo=github&logoColor=azure&color=181717)](https://github.com/ezekielmiles) [![Linkedin](https://img.shields.io/badge/-Ezekiel_Miles-000?style=for-the-badge&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/ezekielmiles/)
+
+-->
 
 <!--
 **ezekielmiles/ezekielmiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
